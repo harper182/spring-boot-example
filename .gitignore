@@ -1,4 +1,4 @@
 *.ipr
-*.ips
+*.iml
 *.iws
 .gradle/
